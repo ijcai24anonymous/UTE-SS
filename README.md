@@ -1,6 +1,6 @@
 # UTE-SS
 
-Here is the code for **Syntax-Oriented Shortcut: A syntax level perturbing algorithm for prevent text data from being learned**
+Here is the code for **Syntax-Oriented Shortcut: A syntax level perturbing algorithm for preventing text data from being learned**
 
 
 
