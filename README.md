@@ -1,9 +1,17 @@
-# UTE-SS
+# Syntax-oriented Shortcut: A syntax level perturbing algorithm for preventing text data from being learned
 
-Here is the code for **Syntax-Oriented Shortcut: A syntax level perturbing algorithm for preventing text data from being learned**
+This repository provides the source code for IJCAI2024 blind review.
 
 
+## Introduction
 
+In this paper, we propose incorporating the syntactic structure of texts and designing a novel Unlearnable Text Examples generation algorithm via Syntax-oriented Shortcut (UTE-SS).
+Specifically, we propose a syntax template generator to generate the optimal perturbing syntax for a given category, which will realize imperceptible perturbations.
+Then, a perturbing text generator is designed to perturb the in-class texts with the selected syntax template to stably deviate from the original texts.
+Along this line, models will be misled to learn the shortcut between the syntax template and the category, so as to keep text examples unlearnable.
+<div align=center>
+<img src="overview.jpg" width="800px">
+</div>
 
 
 ## Dependencies
